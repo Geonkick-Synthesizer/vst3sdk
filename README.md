@@ -1,3 +1,5 @@
+Just a clone of the original repository 
+
 <div style="text-align:center">
 <img src="https://steinbergmedia.github.io/vst3_doc/gfx/vst3_logo.jpg" alt="VST 3 SDK" /></div>
 
